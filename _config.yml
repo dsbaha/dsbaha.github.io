@@ -1,6 +1,5 @@
 layout: sidebar
 style: light
-theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-octicons
